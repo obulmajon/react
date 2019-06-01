@@ -1,1 +1,1 @@
-git global
+git global ni o'chirib yoqish
