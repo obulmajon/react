@@ -1,2 +1,3 @@
 git global ni o'chirib yoqish
-Test -1 pull qiish
+Test -1 push qilish
+Test - 2 pull qilish
